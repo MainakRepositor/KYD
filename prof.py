@@ -8,7 +8,7 @@ from streamlit_pandas_profiling import st_profile_report
 st.markdown('''
 # **Know  Your Data 🎯👀💾**
 
-This is an useful project that can help you plan your Data Science Notebook by provding important insights about your data.
+This is an useful project that can help you to plan your Data Science Notebook by providing important insights about your data.
 
 
 ''')
